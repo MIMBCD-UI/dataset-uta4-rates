@@ -1,6 +1,6 @@
 <meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/dataset-uta4-rates/web/index.html'" />
 
-# Datasets Repository Template
+# UTA4: Rates Dataset
 
 <img src="https://github.com/MIMBCD-UI/meta/blob/master/banners/datasets_1280x640.png?raw=true" width="100%" />
 
