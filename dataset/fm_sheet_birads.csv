@@ -1,4 +1,4 @@
-name,group,physicians_number,s_birads_94662,s_birads_607376,s_birads_737037,m_birads_94662,m_birads_607376,m_birads_737037
+name,group,physicians_number,s_birads_d045f565-e0be-432c-aaab-8296b169c529,s_birads_9cfd047c-14f1-45c3-aadc-02ec90feeae9,s_birads_aec1f10a-a315-409e-b099-0e1c0bdc0077,m_birads_d045f565-e0be-432c-aaab-8296b169c529,m_birads_9cfd047c-14f1-45c3-aadc-02ec90feeae9,m_birads_aec1f10a-a315-409e-b099-0e1c0bdc0077
 Clinician 1,senior,1,2,5,2,4,5,2
 Clinician 2,intern,2,3,5,4,2,5,4
 Clinician 3,intern,3,0,0,4,3,5,4
